@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Kira Nechaeva
 
 # Name pronunciation (optional)
-name_pronunciation: Nechaeva Kira
+name_pronunciation: Kira Nechaeva
 
 # Full name (for SEO)
 first_name: Kira
