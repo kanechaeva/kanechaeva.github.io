@@ -30,21 +30,20 @@ bio: Я просто студентка, которая очень любит с
 # Interests to show in About widget
 interests:
   - Игра на фортепиано
-  - Computational Linguistics
-  - Information Retrieval
+  - Пение
+  - Изучение операционных систем
+  - Инвестиции
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: мяу
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  
+    - course: Компьютерные и информационные науки
+      institution: RUDN University
+      year: 2023
+    - course: ГБОУ №1234, немецкое отделение
+      institution: 
+      year: 2011-2023
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,37 +52,37 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 40
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 85
         icon: chart-line
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 90
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Playing the piano
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 85
+        icon: piano
         icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Learning German
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: flag
         icon_pack: fas
 
 # Social/Academic Networking
@@ -105,7 +104,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/kanechaeva
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -120,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Я являюсь студенткой российского университета дружбы народов. На данный момент я обучаюсь на специальности "Компьютерные и информационные науки". В основном я занимаюсь освоением различных языков программирования (С, С++, Python, SQL) и исследованием операционных систем. Так же значительную часть времени я посвящаю изучению математического анализа и дискретной математики.
 {style="text-align: justify;"}
