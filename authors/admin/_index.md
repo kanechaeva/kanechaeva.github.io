@@ -3,7 +3,7 @@
 title: Kira Nechaeva
 
 # Name pronunciation (optional)
-name_pronunciation:
+name_pronunciation: Kira Nechaeva
 
 # Full name (for SEO)
 first_name: Kira
