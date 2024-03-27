@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo | Academic</title>
+    <link>http://localhost:1313/category/demo/</link>
+      <atom:link href="http://localhost:1313/category/demo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Demo</title>
+      <link>http://localhost:1313/category/demo/</link>
+    </image>
+    
+    <item>
+      <title>Как прошла моя неделя?</title>
+      <link>http://localhost:1313/post/last-week/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/last-week/</guid>
+      <description>&lt;h2 id=&#34;кратко-пройдемся-по-дням-недели&#34;&gt;Кратко пройдемся по дням недели&lt;/h2&gt;
+&lt;p&gt;Начнем с того, что в понедельник я проснулась с мыслью &amp;ldquo;Зачем мне всё это надо&amp;hellip; Я никуда не пойду.&amp;rdquo;. Однако к трём часам я поехала на репетицию для выступления на французском. Не самое приятное времяпрепровождение, зато после меня ждал вкусный кофе. В этот же день вечером у меня сломался мой под и я потратила &amp;ldquo;бешенные тыщи&amp;rdquo; на покупку нового. Это больно ударило по психике и по кошельку, потому было достаточно поучительно.&lt;/p&gt;
+&lt;p&gt;Во вторник ничего страшного не произошло, я съездила на занятие по физической культуре, чуть размялась и развеялась по пути от дома до корупса и обратно. Обидно, что на дорогу тратится больше времени, чем на само занятие.&lt;/p&gt;
+&lt;p&gt;В среду наконец-то были нормальные занятия по моей специальности. Однако вставать пришлось в 6:30, что неприятно. После занятий я приехала домой, пострадала какой-то фигней и в ночи села делать лабораторную работу. К двум часам ночи я полностью закончила и работу, и отчет, и презентацию и даже загрузила все файлы и ссылки (то бишь сдала работу).&lt;/p&gt;
+&lt;p&gt;В четверг опять подъем в 6:30. Это было очень неприятно, так как, как вы помните, я уснула только в 2 часа ночи. Но в целом четверг прошел неплохо, я даже не уснула на аналитической геометрии (но уснула на математической логике). В окно между парами сделала тест по истории и домашнее задание по английскому. Затем лекция по мат анализу и наконец-то домой!!!&lt;/p&gt;
+&lt;p&gt;В пятницу были 3 пары по английскому. Достаточно скучно, июо это монотонная работа. Хотя на первой паре мы репетировли выступление все полтора часа, что не модет не радовать. С третьей пары я ушла, так как мою лучшую подругу внезапно выписали из больницы спустя две недели с достаточно тяжелым заолеванием. Я не могла ее не встретить, поэтому в срочном порядке поехала к ней.&lt;/p&gt;
+&lt;p&gt;А сегодня, собственно, суббота. Пока я успела только сходить в поликлинику (боже как же это страшно) и написать этот пост.)&lt;/p&gt;
+&lt;h2 id=&#34;основные-инсайты&#34;&gt;Основные инсайты&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Я поняла, что нужно тратить меньше денег.&lt;/li&gt;
+&lt;li&gt;Ко мне пришла мысль, что пора бросать курить.&lt;/li&gt;
+&lt;li&gt;Я наконец-то сделала 6 лабораторну работу.&lt;/li&gt;
+&lt;li&gt;Надо больше времени уделять мат анализу, да и остальным дисциплинам в принципе тоже.&lt;/li&gt;
+&lt;li&gt;Пора бы уже начать разбираться с С++, ибо во втором семестре у меня до сих пор ничего не получается и я ничего не понимаю.(((((&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;сделала-ли-я-что-то-полезное-исходя-из-инсайтов&#34;&gt;Сделала ли я что-то полезное, исходя из инсайтов?&lt;/h2&gt;
+&lt;p&gt;Если честно, пока сама не поняла, изменила ли я как-то своб жизнь. Во вторник и в среду я ещё как-то заботилась о том, что нужно бросатьь курить. В четверг я уже так зае*, что стало всё равно.&lt;/p&gt;
+&lt;p&gt;Что касается трат, тут пока что относительно спокойно, вроде не особо много я сейчас покупаю ненужных вещей.&lt;/p&gt;
+&lt;p&gt;Изучение дисциплин&amp;hellip; ну я думаю завтра приступить к выполнению дз по мат анализу и аналитической геометрии. Плююс пробежаться по лекциям, что наверное неплохо.&lt;/p&gt;
+&lt;p&gt;С++&amp;hellip;.. Слишком больная тема, однако после того, как я допишу этот пост, я думаю написать код, который мне сегодня же и сдавать.&lt;/p&gt;
+&lt;h2 id=&#34;выводы&#34;&gt;Выводы&lt;/h2&gt;
+&lt;p&gt;Что ж, по моему субъективному мнению, неделя не была такой уж непродуктивной, Ибо:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Я сделала неплохой доклад по истории.&lt;/li&gt;
+&lt;li&gt;Я хорошо написала самостоятельную работу по мат анализу, ибо заблаговевременно неплохо разобралась в теме.&lt;/li&gt;
+&lt;li&gt;Я сделала лабораторную работу !не в последний момент!&lt;/li&gt;
+&lt;li&gt;Вроде как я выполняла все домашние задания.&lt;/li&gt;
+&lt;li&gt;Больше чем обычно выходила на улицу и в принципе много ходила.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;На этом я закончу свой рассказ. Спасибо, что прочитали мой пост!!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Контроль версий. Git.</title>
+      <link>http://localhost:1313/post/git/index1/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/git/index1/</guid>
+      <description>&lt;h2 id=&#34;что-означает-управление-версиями-и-как-с-этим-работать&#34;&gt;Что означает управление версиями и как с этим работать?&lt;/h2&gt;
+&lt;p&gt;Управление версиями - это важный аспект разработки программного обеспечения, который позволяет отслеживать изменения в коде, управлять их версиями и сотрудничать с другими разработчиками. Одним из самых популярных инструментов для управления версиями является система Git.&lt;/p&gt;
+&lt;h2 id=&#34;что-же-такое-git&#34;&gt;Что же такое Git&lt;/h2&gt;
+&lt;p&gt;Git - это распределенная система управления версиями, разработанная Линусом Торвальдсом. Она позволяет разработчикам эффективно работать над проектами, отслеживать изменения в коде, создавать ветки для разработки новых функций и исправления ошибок, а также объединять изменения из разных веток.&lt;/p&gt;
+&lt;h2 id=&#34;особенности-и-пеимущества-git&#34;&gt;Особенности и пеимущества Git&lt;/h2&gt;
+&lt;p&gt;Одной из ключевых особенностей Git является возможность легко откатываться к предыдущим версиям кода, если что-то пошло не так. Это обеспечивает безопасность и надежность при работе над проектами.&lt;/p&gt;
+&lt;h2 id=&#34;плюсы-для-разработчиков&#34;&gt;Плюсы для разработчиков&lt;/h2&gt;
+&lt;p&gt;Git также обладает мощными инструментами для совместной работы над проектами. Разработчики могут создавать отдельные ветки для своей работы, делать изменения и отправлять их на сервер для объединения с основной веткой. Это позволяет эффективно управлять конфликтами и обеспечивает гибкость в работе над проектом.&lt;/p&gt;
+&lt;h2 id=&#34;выводы&#34;&gt;Выводы&lt;/h2&gt;
+&lt;p&gt;В целом, Git является незаменимым инструментом для разработчиков, позволяющим им эффективно управлять версиями кода, сотрудничать с другими разработчиками и обеспечивать качество и надежность программного обеспечения.&lt;/p&gt;
+&lt;p&gt;На этом я заканчиваю повествование. Спасибо, что прочитали мой пост!!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
+      <link>http://localhost:1313/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/getting-started/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://hugoblox.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://docs.hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://docs.hugoblox.com/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://hugoblox.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/GetRD/academic-file-converter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://hugoblox.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://docs.hugoblox.com/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://docs.hugoblox.com/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://docs.hugoblox.com/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://docs.hugoblox.com/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
