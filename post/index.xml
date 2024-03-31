@@ -14,9 +14,9 @@
     
     <item>
       <title>Как прошла еще одна неделя моей невероятной жизни?</title>
-      <link>http://localhost:1313/post/last-week2/lw2/</link>
+      <link>http://localhost:1313/post/last-week2/</link>
       <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/last-week2/lw2/</guid>
+      <guid>http://localhost:1313/post/last-week2/</guid>
       <description>&lt;h2 id=&#34;кратко-пройдемся-по-дням-недели&#34;&gt;Кратко пройдемся по дням недели&lt;/h2&gt;
 &lt;h3 id=&#34;понедельник-я-сейчас-заплачу&#34;&gt;Понедельник (я сейчас заплачу)&lt;/h3&gt;
 &lt;p&gt;Ну-с, начнем с того, что понедельник прошел замечательно - я сидела дома. с парой по-францускому хорошо (нет), а без неё ещё лучше! Судя по фотографиям, сделанным в этот день, я весь день фоткала кошку. Пояснение: я не помню, что ела сегодня с утра, так что все дни я пытаюсь воспроизводить по галерее фотографий. Возвращаясь к теме понедельника, так он и должен проходить, я считаю.&lt;/p&gt;
@@ -368,7 +368,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-678452913&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-497261385&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -378,7 +378,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-678452913&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-497261385&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
